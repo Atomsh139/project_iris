@@ -16,7 +16,7 @@ summary(iris)
 hist(iris$Sepal.Length, 
      main="Distribution de Sepal.Length", 
      xlab="Sepal Length", 
-     col="lightgreen")
+     col="lightblue")
 
 # Nuage de points (Sepal.Length vs Sepal.Width)
 plot(iris$Sepal.Length, iris$Sepal.Width, 
